@@ -1,3 +1,3 @@
 ## My Live Site :
 
-https://github.com/Sajib-920/3rd-Project.git
+https://sajib-920.github.io/3rd-Project/
